@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: extract
+Class-Path: lib/swing-layout-1.0.jar
+Created-By: 1.6.0_01 (Sun Microsystems Inc.)
